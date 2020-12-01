@@ -19,10 +19,12 @@
 		"type": "RG",
 		"rarity": "unknown (magic)",
 		"source": "MO",
+		"srd":true,
 		"charges": 3,
 		"entries": [
 			"This lei of mostly small white blooms features three large and brightly colored flowers. When you eat a large flower, you get +2 to saving throws verses illusions and enchantments for 8 hours."
 		],
+		"bonusAc": "+1",
 		"bonusSavingThrow": "+2",
 		"fluff": {
 			"images": [
