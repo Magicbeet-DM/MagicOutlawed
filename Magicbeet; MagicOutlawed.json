@@ -25,11 +25,12 @@
 				"This lei of mostly small white blooms features three large and brightly colored flowers. When you eat a large flower, you get +2 to saving throws verses illusions and enchantments for 8 hours.",
 			"images": [
 				{
-				"type": "image",
-				"href": {
-					"type": "external",
-					"url": "https://github.com/Magicbeet-DM/MagicOutlawed/Lei of Navia.png"
-				}
+			"type": "image",
+			"href": {
+				"type": "external",
+				"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/AZFYT/findbroker.webp"
+							}
+						},
 			}]
 			]
 		}
