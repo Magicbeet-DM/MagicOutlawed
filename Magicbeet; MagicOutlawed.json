@@ -16,6 +16,7 @@
 	},
 	"item": [{
 		"name": "Lei of Navia",
+		"name":"Ring of Protection",
 		"source":"DMG",
 		"page":191,
 		"srd":true,
@@ -28,21 +29,7 @@
 		"entries":[
 			"You gain a +1 bonus to AC and saving throws while wearing this ring."
 		],
-		"lootTables":["Magic Item Table G"],
-		"fluff": {
-			"images": [
-				{
-					"type": "image",
-					"href": {
-						"type": "external",
-						"url": "https://github.com/Magicbeet-DM/MagicOutlawed/raw/main/Lei%20of%20Navia.png"
-					}
-				}
-			],
-			"entries": [
-				"This lei of mostly small white blooms features three large and brightly colored flowers. When you eat a large flower, you get +2 to saving throws verses illusions and enchantments for 8 hours."
-			]
-		}
+		"lootTables":["Magic Item Table G"]
 	},
 	{
 		"name":"Ring of Protection",
